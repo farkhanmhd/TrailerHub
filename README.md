@@ -1,2 +1,2 @@
-# farkhanmhd.github.io
-Image Gallery (Production Build)
+# TrailerHub
+Movie Trailer App (Production Build) by Farkhan Muhammad
